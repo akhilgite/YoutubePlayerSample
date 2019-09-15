@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YoutubePlayerSample</string>
+    <string name="error_player">Error in initializing youtube player (%1$s)</string>
+</resources>
